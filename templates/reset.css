@@ -1,25 +1,25 @@
 table {
-    border-collapse: collapse; /* Отображать двойные линии как одинарные;*/                                             /*border-top:1px solid #000 - одна линия;*/
+    border-collapse: collapse;                                             /*border-top:1px solid #000 - одна линия;*/
     }
    td {
-    border: 1px solid #800; /* Параметры границы */
-    padding: 4px; /* Поля в ячейках */
+    border: 1px solid #800;
+    padding: 4px; 
     }
     
     .red{
-       color:red
+       color:red;
    }
    .green{
-       color:green
+       color:green;
    }
    .blue{
-       color:#007eff
+       color:#007eff;
    }
    .bold{
        font-weight:600;
    }
    .italic{
-       font-style:italic
+       font-style:italic;
    }
    .underline{
        text-decoration:underline;
