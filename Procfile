@@ -1,0 +1,1 @@
+web: gunicorn heroku_pr_k7.wsgi --log-file -
